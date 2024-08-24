@@ -1,0 +1,52 @@
+2024-08-23 18:19:11,617 - INFO - File created: replica\File1.txt
+2024-08-23 18:19:11,620 - INFO - File created: replica\File2.docx
+2024-08-23 18:19:11,621 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:20:11,639 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:21:11,641 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:22:11,647 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:23:11,653 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:24:11,656 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:25:11,661 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:26:11,663 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:27:11,672 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:28:11,677 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:29:11,695 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:30:11,703 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:31:11,707 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:32:11,708 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:33:11,713 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:34:11,716 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:35:11,722 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:36:11,723 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:37:11,726 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:38:11,728 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:39:11,731 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:40:11,735 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:41:11,738 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:42:11,743 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:43:11,745 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:44:11,750 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:45:11,756 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:46:11,759 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:47:11,761 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:48:11,763 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:49:11,765 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:50:11,771 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:51:11,781 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:52:11,783 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:53:11,786 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:54:11,788 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-23 18:55:11,810 - INFO - Synchronization completed. Waiting for 60 seconds.
+2024-08-24 14:57:32,972 - INFO -Starting folder synchronization...
+2024-08-24 14:57:32,973 - ERROR -An error occurred: name 'replica_root' is not defined
+2024-08-24 14:59:25,198 - INFO -Starting folder synchronization...
+2024-08-24 14:59:25,202 - INFO -Copied/Updated file: source\File1.txt -> replica\.\File1.txt
+2024-08-24 14:59:25,203 - INFO -Copied/Updated file: source\File2.docx -> replica\.\File2.docx
+2024-08-24 14:59:25,204 - INFO -Copied/Updated file: source\File3.txt -> replica\.\File3.txt
+2024-08-24 14:59:25,205 - INFO -Synchronization completed. Waiting 60 seconds for the next run.
+2024-08-24 15:00:25,231 - INFO -Synchronization completed. Waiting 60 seconds for the next run.
+2024-08-24 15:01:25,235 - INFO -Copied/Updated file: source\File1.txt -> replica\.\File1.txt
+2024-08-24 15:01:25,242 - INFO -Copied/Updated file: source\File2.docx -> replica\.\File2.docx
+2024-08-24 15:01:25,247 - INFO -Copied/Updated file: source\File3.txt -> replica\.\File3.txt
+2024-08-24 15:01:25,258 - INFO -Synchronization completed. Waiting 60 seconds for the next run.
+2024-08-24 15:02:25,275 - INFO -Synchronization completed. Waiting 60 seconds for the next run.
